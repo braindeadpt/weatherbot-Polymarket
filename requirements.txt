@@ -1,5 +1,6 @@
 # Core dependencies (always required)
 requests>=2.31.0
+certifi>=2026.10.19  # distrusts compromised eMudhra intermediates
 flask>=3.0.0
 pytest>=7.4.0
 
